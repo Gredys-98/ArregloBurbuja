@@ -1,0 +1,10 @@
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Gredy\Desktop\Ciclo Burbuja\Arreglos\obj\Debug\Arreglos.pdb
